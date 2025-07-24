@@ -39,7 +39,7 @@ public class SortUtil{
     /**
      * orders words in a list based on their weight with (A=1, Z=26)
      * 
-     * @param list the undordered list which will be ordered
+     * @param list the unordered list which will be ordered
      * @return A list of ordered words
      */
     public static List<String> oopSort (List<String> list){
